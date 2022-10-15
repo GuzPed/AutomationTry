@@ -1,4 +1,4 @@
-package com.cydeo.tests.practise1;
+package com.cydeo.tests.projects;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
